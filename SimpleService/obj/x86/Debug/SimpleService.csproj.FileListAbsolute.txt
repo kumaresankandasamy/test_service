@@ -6,3 +6,11 @@ F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\SimpleService.pdb
 F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\SimpleService.SimpleServiceInstaller.resources
 F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\GenerateResource.read.1.tlog
 F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ref\tc_service_task\SimpleService\SimpleService\bin\Debug\SimpleService.exe
+D:\ref\tc_service_task\SimpleService\SimpleService\bin\Debug\SimpleService.pdb
+D:\ref\tc_service_task\SimpleService\SimpleService\obj\x86\Debug\SimpleService.csprojAssemblyReference.cache
+D:\ref\tc_service_task\SimpleService\SimpleService\obj\x86\Debug\SimpleService.SimpleServiceInstaller.resources
+D:\ref\tc_service_task\SimpleService\SimpleService\obj\x86\Debug\SimpleService.csproj.GenerateResource.cache
+D:\ref\tc_service_task\SimpleService\SimpleService\obj\x86\Debug\SimpleService.csproj.CoreCompileInputs.cache
+D:\ref\tc_service_task\SimpleService\SimpleService\obj\x86\Debug\SimpleService.exe
+D:\ref\tc_service_task\SimpleService\SimpleService\obj\x86\Debug\SimpleService.pdb
