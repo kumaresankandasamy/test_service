@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.InstallLog
+   assemblypath = F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.InstallLog
+   assemblypath = F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.exe

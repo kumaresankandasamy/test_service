@@ -1,0 +1,175 @@
+﻿Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Restoring event log to previous state for source SimpleService.
+Uninstalling assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Uninstalling assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Restoring event log to previous state for source SimpleService.
+Uninstalling assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Uninstalling assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\Tryouts\SimpleService\build\SimpleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Tryouts\SimpleService\build\SimpleService.InstallLog
+   assemblypath = E:\Tryouts\SimpleService\build\SimpleService.exe

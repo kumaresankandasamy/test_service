@@ -1,0 +1,8 @@
+F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.exe
+F:\Tryouts\SimpleService\SimpleService\bin\Debug\SimpleService.pdb
+F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\SimpleService.exe
+F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\SimpleService.pdb
+F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\SimpleService.SimpleServiceInstaller.resources
+F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Tryouts\SimpleService\SimpleService\obj\x86\Debug\GenerateResource.write.1.tlog
